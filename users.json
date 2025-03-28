@@ -1,0 +1,856 @@
+{
+    "admin@aggne.com": {
+        "password": "Pass@word123",
+        "is_admin": true,
+        "points": 0,
+        "bets": {}
+    },
+    "pabolu@aggne.com": {
+        "password": "Pass@word123",
+        "points": 500,
+        "bets": {
+            "match01": {
+                "team": "KKR",
+                "points": 5000,
+                "locked": true,
+                "result": "lost",
+                "winner": "RCB"
+            }
+        }
+    },
+    "pradeep.pabolu@aggne.com": {
+        "password": "Pass@word123",
+        "points": 400,
+        "bets": {
+            "match01": {
+                "team": "KKR",
+                "points": 100,
+                "locked": true,
+                "result": "lost",
+                "winner": "RCB"
+            },
+            "match05": {
+                "team": "GT",
+                "points": 4000,
+                "locked": true
+            },
+            "match06": {
+                "team": "KKR",
+                "points": 500,
+                "locked": true
+            },
+            "match07": {
+                "team": "SRH",
+                "points": 1000,
+                "locked": true
+            },
+            "match08": {
+                "team": "CSK",
+                "points": 1000,
+                "locked": true
+            }
+        }
+    },
+    "Balaganeshkumar.papuri@aggne.com": {
+        "password": "Banti@123",
+        "points": 0,
+        "bets": {
+            "match05": {
+                "team": "GT",
+                "points": 2500,
+                "locked": true
+            },
+            "match06": {
+                "team": "KKR",
+                "points": 1000,
+                "locked": true
+            },
+            "match07": {
+                "team": "SRH",
+                "points": 2000,
+                "locked": true
+            },
+            "match08": {
+                "team": "RCB",
+                "points": 1500,
+                "locked": true
+            }
+        }
+    },
+    "kaushik.duddukuri@aggne.com": {
+        "password": "MyIPL@2025",
+        "points": 6900,
+        "bets": {
+            "match01": {
+                "team": "KKR",
+                "points": 100,
+                "locked": true,
+                "result": "lost",
+                "winner": "RCB"
+            }
+        }
+    },
+    "Venky@aggne.com": {
+        "password": "Aggne2020!",
+        "points": 7000,
+        "bets": {
+            "match01": {
+                "team": "KKR",
+                "points": 100,
+                "locked": true,
+                "result": "lost",
+                "winner": "RCB"
+            },
+            "match02": {
+                "team": "SRH",
+                "points": 200,
+                "locked": true,
+                "result": "won",
+                "winner": "SRH"
+            },
+            "match03": {
+                "team": "MI",
+                "points": 100,
+                "locked": true,
+                "result": "lost",
+                "winner": "CSK"
+            }
+        }
+    },
+    "Akhil.varma@aggne.com": {
+        "password": "Rasuko@12",
+        "points": 7500,
+        "bets": {
+            "match01": {
+                "team": "RCB",
+                "points": 500,
+                "locked": true,
+                "result": "won",
+                "winner": "RCB"
+            },
+            "match02": {
+                "team": "SRH",
+                "points": 500,
+                "locked": true,
+                "result": "won",
+                "winner": "SRH"
+            },
+            "match03": {
+                "team": "MI",
+                "points": 500,
+                "locked": true,
+                "result": "lost",
+                "winner": "CSK"
+            }
+        }
+    },
+    "Shiva.yara@aggne.com": {
+        "password": "Shiva@123",
+        "points": 0,
+        "bets": {
+            "match04": {
+                "team": "LSG",
+                "points": 2000,
+                "locked": true,
+                "result": "lost",
+                "winner": "DC"
+            },
+            "match05": {
+                "team": "PBKS",
+                "points": 5000,
+                "locked": true
+            }
+        }
+    },
+    "ravikiransripada": {
+        "password": "Krishna@2002",
+        "points": 6400,
+        "bets": {
+            "match04": {
+                "team": "DC",
+                "points": 500,
+                "locked": true,
+                "result": "won",
+                "winner": "DC"
+            },
+            "match05": {
+                "team": "GT",
+                "points": 250,
+                "locked": true
+            },
+            "match07": {
+                "team": "SRH",
+                "points": 500,
+                "locked": true
+            },
+            "match08": {
+                "team": "RCB",
+                "points": 250,
+                "locked": true
+            },
+            "match06": {
+                "team": "RR",
+                "points": 100,
+                "locked": true
+            }
+        }
+    },
+    "SrihariMahapatro": {
+        "password": "Srihari@2002",
+        "points": 6000,
+        "bets": {
+            "match05": {
+                "team": "GT",
+                "points": 1000,
+                "locked": true
+            }
+        }
+    },
+    "sudeep.kumbam@aggne.com": {
+        "password": "Aggne01@",
+        "points": 7000,
+        "bets": {}
+    },
+    "archana.gadiraju@aggne.com": {
+        "password": "Apsv220412",
+        "points": 7000,
+        "bets": {}
+    },
+    "dundayya": {
+        "password": "IplDundayya",
+        "points": 7000,
+        "bets": {}
+    },
+    "rohit.singh@aggne.com": {
+        "password": "rohitsingh08",
+        "points": 7000,
+        "bets": {
+            "match04": {
+                "team": "DC",
+                "points": 100,
+                "locked": true,
+                "result": "won",
+                "winner": "DC"
+            },
+            "match05": {
+                "team": "PBKS",
+                "points": 100,
+                "locked": true
+            }
+        }
+    },
+    "bhaskara.yeluripaty@aggne.com": {
+        "password": "Raghava@31",
+        "points": 6500,
+        "bets": {
+            "match05": {
+                "team": "PBKS",
+                "points": 500,
+                "locked": true
+            }
+        }
+    },
+    "nakChaitu9698": {
+        "password": "Krishnac.c@9698",
+        "points": 6100,
+        "bets": {
+            "match04": {
+                "team": "DC",
+                "points": 100,
+                "locked": true,
+                "result": "won",
+                "winner": "DC"
+            },
+            "match05": {
+                "team": "PBKS",
+                "points": 1000,
+                "locked": true
+            }
+        }
+    },
+    "srikanth.mannepalli@aggne.com": {
+        "password": "Srikanth@1",
+        "points": 6600,
+        "bets": {
+            "match04": {
+                "team": "DC",
+                "points": 100,
+                "locked": true,
+                "result": "won",
+                "winner": "DC"
+            },
+            "match08": {
+                "team": "RCB",
+                "points": 500,
+                "locked": true
+            }
+        }
+    },
+    "sharvaani.martala@aggne.com": {
+        "password": "Shersharu5*",
+        "points": 7000,
+        "bets": {
+            "match04": {
+                "team": "DC",
+                "points": 200,
+                "locked": true,
+                "result": "won",
+                "winner": "DC"
+            },
+            "match05": {
+                "team": "GT",
+                "points": 200,
+                "locked": true
+            }
+        }
+    },
+    "saichand.siddabathuni@aggne.com": {
+        "password": "S@iCh@nd143",
+        "points": 7000,
+        "bets": {
+            "match04": {
+                "team": "DC",
+                "points": 1000,
+                "locked": true,
+                "result": "won",
+                "winner": "DC"
+            },
+            "match05": {
+                "team": "GT",
+                "points": 1000,
+                "locked": true
+            }
+        }
+    },
+    "bharath.bollu@aggne.com": {
+        "password": "iplBB@109",
+        "points": 7000,
+        "bets": {}
+    },
+    "ritesh.billakanti@aggne.com": {
+        "password": "Nssr15062@9073",
+        "points": 5500,
+        "bets": {
+            "match04": {
+                "team": "DC",
+                "points": 400,
+                "locked": true,
+                "result": "won",
+                "winner": "DC"
+            },
+            "match05": {
+                "team": "GT",
+                "points": 400,
+                "locked": true
+            },
+            "match06": {
+                "team": "KKR",
+                "points": 400,
+                "locked": true
+            },
+            "match07": {
+                "team": "SRH",
+                "points": 500,
+                "locked": true
+            },
+            "match08": {
+                "team": "RCB",
+                "points": 600,
+                "locked": true
+            }
+        }
+    },
+    "saikoushik.oorugonda@aggne.com": {
+        "password": "Lvsaprka@016",
+        "points": 5500,
+        "bets": {
+            "match04": {
+                "team": "DC",
+                "points": 100,
+                "locked": true,
+                "result": "won",
+                "winner": "DC"
+            },
+            "match05": {
+                "team": "PBKS",
+                "points": 100,
+                "locked": true
+            },
+            "match08": {
+                "team": "RCB",
+                "points": 500,
+                "locked": true
+            },
+            "match06": {
+                "team": "RR",
+                "points": 500,
+                "locked": true
+            },
+            "match07": {
+                "team": "SRH",
+                "points": 500,
+                "locked": true
+            }
+        }
+    },
+    "Vinay.balda@aggne.com": {
+        "password": "9515545662Ss@",
+        "points": 4500,
+        "bets": {
+            "match04": {
+                "team": "DC",
+                "points": 500,
+                "locked": true,
+                "result": "won",
+                "winner": "DC"
+            },
+            "match05": {
+                "team": "GT",
+                "points": 3000,
+                "locked": true
+            }
+        }
+    },
+    "Dheeraj.Eluka@aggne.com": {
+        "password": "Nagamma@2001",
+        "points": 8000,
+        "bets": {
+            "match04": {
+                "team": "DC",
+                "points": 1000,
+                "locked": true,
+                "result": "won",
+                "winner": "DC"
+            }
+        }
+    },
+    "madhu.madisa@aggne.com": {
+        "password": "Rasuko@12345",
+        "points": 7000,
+        "bets": {}
+    },
+    "anand.kurma@aggne.com": {
+        "password": "TJDwcykA@1998",
+        "points": 6800,
+        "bets": {
+            "match04": {
+                "team": "DC",
+                "points": 100,
+                "locked": true,
+                "result": "won",
+                "winner": "DC"
+            },
+            "match05": {
+                "team": "GT",
+                "points": 300,
+                "locked": true
+            }
+        }
+    },
+    "simha.gondesi@aggne.com": {
+        "password": "!PentayyaReddy1976",
+        "points": 5000,
+        "bets": {
+            "match04": {
+                "team": "DC",
+                "points": 1000,
+                "locked": true,
+                "result": "won",
+                "winner": "DC"
+            },
+            "match05": {
+                "team": "GT",
+                "points": 3000,
+                "locked": true
+            }
+        }
+    },
+    "shivani.a@aggne.com": {
+        "password": "Avinash@1998",
+        "points": 500,
+        "bets": {
+            "match04": {
+                "team": "DC",
+                "points": 3500,
+                "locked": true,
+                "result": "won",
+                "winner": "DC"
+            },
+            "match07": {
+                "team": "SRH",
+                "points": 10000,
+                "locked": true
+            }
+        }
+    },
+    "Varma348": {
+        "password": "Varma@0512",
+        "points": 6000,
+        "bets": {
+            "match04": {
+                "team": "LSG",
+                "points": 1000,
+                "locked": true,
+                "result": "lost",
+                "winner": "DC"
+            }
+        }
+    },
+    "phanindhra.nandhyala@aggne.com": {
+        "password": "Varma@0512",
+        "points": 6000,
+        "bets": {
+            "match04": {
+                "team": "LSG",
+                "points": 1000,
+                "locked": true,
+                "result": "lost",
+                "winner": "DC"
+            }
+        }
+    },
+    "akash.malenni@aggne.com": {
+        "password": "Azxcvb@2468",
+        "points": 5700,
+        "bets": {
+            "match04": {
+                "team": "LSG",
+                "points": 500,
+                "locked": true,
+                "result": "lost",
+                "winner": "DC"
+            },
+            "match05": {
+                "team": "PBKS",
+                "points": 500,
+                "locked": true
+            },
+            "match06": {
+                "team": "RR",
+                "points": 100,
+                "locked": true
+            },
+            "match07": {
+                "team": "SRH",
+                "points": 100,
+                "locked": true
+            },
+            "match08": {
+                "team": "RCB",
+                "points": 100,
+                "locked": true
+            }
+        }
+    },
+    "saimanishwar.manga@aggne.com": {
+        "password": "1w3r4e2Q@",
+        "points": 7000,
+        "bets": {}
+    },
+    "rinkesh.jeswani@aggne.com": {
+        "password": "Rinkesh@123",
+        "points": 5100,
+        "bets": {
+            "match04": {
+                "team": "LSG",
+                "points": 200,
+                "locked": true,
+                "result": "lost",
+                "winner": "DC"
+            },
+            "match05": {
+                "team": "PBKS",
+                "points": 200,
+                "locked": true
+            },
+            "match06": {
+                "team": "KKR",
+                "points": 500,
+                "locked": true
+            },
+            "match07": {
+                "team": "SRH",
+                "points": 500,
+                "locked": true
+            },
+            "match08": {
+                "team": "RCB",
+                "points": 500,
+                "locked": true
+            }
+        }
+    },
+    "ritika.raman@aggne.com": {
+        "password": "1234rewQ@",
+        "points": 6600,
+        "bets": {
+            "match04": {
+                "team": "LSG",
+                "points": 200,
+                "locked": true,
+                "result": "lost",
+                "winner": "DC"
+            },
+            "match05": {
+                "team": "GT",
+                "points": 200,
+                "locked": true
+            }
+        }
+    },
+    "shreya.malghan@aggne.com": {
+        "password": "homestudent@99",
+        "points": 7000,
+        "bets": {}
+    },
+    "Nagavendar T": {
+        "password": "111111",
+        "points": 6400,
+        "bets": {
+            "match04": {
+                "team": "DC",
+                "points": 700,
+                "locked": true,
+                "result": "won",
+                "winner": "DC"
+            },
+            "match05": {
+                "team": "PBKS",
+                "points": 1300,
+                "locked": true
+            }
+        }
+    },
+    "LakshmiPrasanna.Penumatsa@aggne.com": {
+        "password": "Prasanna@2901",
+        "points": 6800,
+        "bets": {
+            "match05": {
+                "team": "GT",
+                "points": 200,
+                "locked": true
+            }
+        }
+    },
+    "Rajesh.Chintoju@Aggne.com": {
+        "password": "Bablu@290599",
+        "points": 7000,
+        "bets": {}
+    },
+    "Ganesh.manda@aggne.com": {
+        "password": "Lohi@9848",
+        "points": 6800,
+        "bets": {
+            "match05": {
+                "team": "PBKS",
+                "points": 200,
+                "locked": true
+            }
+        }
+    },
+    "vinay.pula@aggne.com": {
+        "password": "Max@2024",
+        "points": 6800,
+        "bets": {
+            "match05": {
+                "team": "PBKS",
+                "points": 200,
+                "locked": true
+            }
+        }
+    },
+    "badal.dalai@aggne.com": {
+        "password": "Ajaya@1234",
+        "points": 853,
+        "bets": {
+            "match05": {
+                "team": "GT",
+                "points": 147,
+                "locked": true
+            },
+            "match06": {
+                "team": "KKR",
+                "points": 6000,
+                "locked": true
+            }
+        }
+    },
+    "prem.kandi@aggne.com": {
+        "password": "Amma@8688207880",
+        "points": 6000,
+        "bets": {
+            "match05": {
+                "team": "PBKS",
+                "points": 1000,
+                "locked": true
+            }
+        }
+    },
+    "Manideep Netha J": {
+        "password": "Mani@24031998",
+        "points": 7000,
+        "bets": {}
+    },
+    "Antony Nakka": {
+        "password": "123456789",
+        "points": 5000,
+        "bets": {
+            "match05": {
+                "team": "GT",
+                "points": 2000,
+                "locked": true
+            }
+        }
+    },
+    "usha.gandivalasa@aggne.com": {
+        "password": "I_need_peace",
+        "points": 6000,
+        "bets": {
+            "match05": {
+                "team": "GT",
+                "points": 1000,
+                "locked": true
+            }
+        }
+    },
+    "sainarasinga.rao@aggne.com": {
+        "password": "dhanalaxmi",
+        "points": 3769,
+        "bets": {
+            "match05": {
+                "team": "PBKS",
+                "points": 3231,
+                "locked": true
+            }
+        }
+    },
+    "pratyush.dixit@aggne.com": {
+        "password": "IPL2026",
+        "points": 5000,
+        "bets": {
+            "match05": {
+                "team": "PBKS",
+                "points": 2000,
+                "locked": true
+            }
+        }
+    },
+    "Pradeep.Mulagapu@aggne": {
+        "password": "Vinny@2k24",
+        "points": 1000,
+        "bets": {
+            "match07": {
+                "team": "SRH",
+                "points": 5000,
+                "locked": true
+            },
+            "match08": {
+                "team": "CSK",
+                "points": 1000,
+                "locked": true
+            }
+        }
+    },
+    "sachin.kumar@aggne.com": {
+        "password": "HelloTest@1215",
+        "points": 5880,
+        "bets": {
+            "match06": {
+                "team": "KKR",
+                "points": 638,
+                "locked": true
+            },
+            "match05": {
+                "team": "PBKS",
+                "points": 482,
+                "locked": true
+            }
+        }
+    },
+    "PriyankaS": {
+        "password": "Kookie92",
+        "points": 7000,
+        "bets": {}
+    },
+    "Alkshendra.k@aggne.com": {
+        "password": "Alex@989",
+        "points": 3667,
+        "bets": {
+            "match05": {
+                "team": "GT",
+                "points": 3333,
+                "locked": true
+            }
+        }
+    },
+    "Priyanka.Sthavaramath@aggne.com": {
+        "password": "JKpriyanka23",
+        "points": 5000,
+        "bets": {
+            "match06": {
+                "team": "KKR",
+                "points": 500,
+                "locked": true
+            },
+            "match08": {
+                "team": "RCB",
+                "points": 500,
+                "locked": true
+            },
+            "match07": {
+                "team": "SRH",
+                "points": 500,
+                "locked": true
+            },
+            "match05": {
+                "team": "GT",
+                "points": 500,
+                "locked": true
+            }
+        }
+    },
+    "rajeshkumar.panda@aggne.com": {
+        "password": "Pass@123",
+        "points": 6900,
+        "bets": {
+            "match05": {
+                "team": "GT",
+                "points": 100,
+                "locked": true
+            }
+        }
+    },
+    "swarop.namani@aggne.com": {
+        "password": "Swaroop@0412",
+        "points": 6500,
+        "bets": {
+            "match05": {
+                "team": "GT",
+                "points": 500,
+                "locked": true
+            }
+        }
+    },
+    "lehya.gorrela@aggne.com": {
+        "password": "krishna1002@",
+        "points": 6000,
+        "bets": {
+            "match05": {
+                "team": "GT",
+                "points": 1000,
+                "locked": true
+            }
+        }
+    },
+    "chetan.sinha@aggne.com": {
+        "password": "Chetan06@Aggne",
+        "points": 6800,
+        "bets": {
+            "match05": {
+                "team": "GT",
+                "points": 200,
+                "locked": true
+            }
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "match01": {
+        "team1": "KKR",
+        "team2": "RCB",
+        "status": "completed",
+        "winner": "RCB",
+        "date": "2025-03-22",
+        "time": "19:30",
+        "venue": "Kolkata",
+        "locked": true,
+        "lock_time": "19:35"
+    },
+    "match02": {
+        "team1": "SRH",
+        "team2": "RR",
+        "status": "completed",
+        "winner": "SRH",
+        "date": "2025-03-23",
+        "time": "15:30",
+        "venue": "Hyderabad",
+        "locked": true,
+        "lock_time": "15:35"
+    },
+    "match03": {
+        "team1": "CSK",
+        "team2": "MI",
+        "status": "completed",
+        "winner": "CSK",
+        "date": "2025-03-23",
+        "time": "19:30",
+        "venue": "Chennai",
+        "locked": true,
+        "lock_time": "19:35"
+    },
+    "match04": {
+        "team1": "DC",
+        "team2": "LSG",
+        "status": "completed",
+        "winner": "LSG",
+        "date": "2025-03-24",
+        "time": "19:30",
+        "venue": "Visakhapatnam",
+        "locked": true,
+        "lock_time": "19:35"
+    },
+    "match05": {
+        "team1": "GT",
+        "team2": "PBKS",
+        "status": "upcoming",
+        "winner": null,
+        "date": "2025-03-25",
+        "time": "19:30",
+        "venue": "Ahmedabad",
+        "locked": false,
+        "lock_time": "19:35"
+    },
+    "match06": {
+        "team1": "RR",
+        "team2": "KKR",
+        "status": "upcoming",
+        "winner": null,
+        "date": "2025-03-26",
+        "time": "19:30",
+        "venue": "Guwahati",
+        "locked": false,
+        "lock_time": "19:35"
+    },
+    "match07": {
+        "team1": "SRH",
+        "team2": "LSG",
+        "status": "upcoming",
+        "winner": null,
+        "date": "2025-03-27",
+        "time": "19:30",
+        "venue": "Hyderabad",
+        "locked": false,
+        "lock_time": "19:35"
+    },
+    "match08": {
+        "team1": "CSK",
+        "team2": "RCB",
+        "status": "upcoming",
+        "winner": null,
+        "date": "2025-03-28",
+        "time": "19:30",
+        "venue": "Chennai",
+        "locked": false,
+        "lock_time": "19:35"
+    }
+}
